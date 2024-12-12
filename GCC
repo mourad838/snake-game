@@ -1,0 +1,2 @@
+gcc snake_game.c -o snake_game
+./snake_game
